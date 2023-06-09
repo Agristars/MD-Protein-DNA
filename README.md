@@ -1,5 +1,5 @@
 # MD-DNA-Protein
-For Protein-DNA Molecular dynamic simulation studies. 
+For DNA-Protein Molecular dynamic simulation studies. 
 
 #**Citing MD-Protein-DNA**
 
